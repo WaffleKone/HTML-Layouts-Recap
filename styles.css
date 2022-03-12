@@ -4,3 +4,6 @@ body {
 #icons {
     padding: 20px;
 }
+span {
+    display: inline-block;
+}
